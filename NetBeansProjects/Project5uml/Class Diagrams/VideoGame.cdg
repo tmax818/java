@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="VideoGame">
+  <ClassDiagramComponents>
+    <Class name="VideoGame" package="" visibility="public" xPosition="320.0" yPosition="127.0">
+      <Fields>
+        <Field name="Player" type="Object" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="VideoGame" returnType="void" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Player">
+  <ClassDiagramComponents>
+    <Class name="Player" package="" visibility="public" xPosition="351.0" yPosition="137.0">
+      <Fields>
+        <Field name="name" type="String" visibility="private"/>
+        <Field name="points" type="int" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="Player" returnType="void" visibility="public"/>
+        <Method name="getName" returnType="String" visibility="public"/>
+        <Method name="setName" returnType="String" visibility="public"/>
+        <Method name="getPoints" returnType="void" visibility="public"/>
+        <Method name="setPoints" returnType="int" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
